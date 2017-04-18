@@ -1,0 +1,5 @@
+git add .
+git commit -m ' '
+git push origin master
+
+http://devops.4linux.com.br:8082/
